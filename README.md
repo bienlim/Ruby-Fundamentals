@@ -1,4 +1,4 @@
-# RUBY and RoR Fundamentals
+# RUBY Fundamentals
 - This repository contains various project and exercises to understand Ruby fundamentals.
 
 ## Ruby Exercises
